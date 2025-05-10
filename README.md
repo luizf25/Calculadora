@@ -1,4 +1,4 @@
-# Calculadora C++ Simples
+# Calculadora
 
 Uma calculadora de linha de comando simples desenvolvida em C++ que realiza operações aritméticas básicas, potenciação e raiz quadrada. Lida com números inteiros e de ponto flutuante (com vírgula/ponto decimal) e inclui suporte para UTF-8 no console do Windows.
 
