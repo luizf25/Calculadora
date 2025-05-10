@@ -10,8 +10,8 @@ Uma calculadora de linha de comando simples desenvolvida em C++ que realiza oper
     *   Multiplicação (`*`)
     *   Divisão (`/`)
 *   **Operações Matemáticas Adicionais:**
-    *   Potenciação (`^`): \(num1^{num2}\)
-    *   Raiz Quadrada (`r`): \(\sqrt{num1}\)
+    *   Potenciação (`^`)
+    *   Raiz Quadrada (`r`)
 *   **Tipos de Números:** Suporte para números inteiros e de ponto flutuante.
 *   **Interface:** Menu interativo de linha de comando.
 *   **Tratamento de Erros:**
